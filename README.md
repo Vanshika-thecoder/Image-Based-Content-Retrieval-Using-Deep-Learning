@@ -40,6 +40,11 @@ Tech Stack
 * **Vector Databases:** Milvus
 * **Tools:** Google Colab, Jupyter Notebook
 
+Project Report
+
+Complete research paper is attached in file.
+
+
 Author
 
 Vanshika
