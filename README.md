@@ -43,6 +43,4 @@ Tech Stack
 Author
 
 Vanshika
-B.Tech Computer Science
-
-Just tell me!
+B.Tech Computer Science & Engineering
